@@ -2,7 +2,7 @@
 
 This repository contains the code needed to reproduce experiments in:
 
-1. "Harvesting Curvatures for Communication-Efficient Distributed Optimization" [[PDF](https://users.ece.cmu.edu/~yuejiec/papers/CEDANE_asilomar2022.pdf)](code is in this file [[link](https://github.com/diogo-mcardoso/Network-Distributed-Algorithm/blob/master/nda/optimizers/server_client/CEDANE.py)])
+1. "Harvesting Curvatures for Communication-Efficient Distributed Optimization" [[PDF](https://users.ece.cmu.edu/~yuejiec/papers/CEDANE_asilomar2022.pdf)](code is in this file [[link](https://github.com/diogo-mcardoso/CEDANE)])
 
 
 If you find this code useful, please cite our paper:
